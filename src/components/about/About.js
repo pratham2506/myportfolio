@@ -1,9 +1,9 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me-about.jpg'
-import {FaAward} from 'react-icons/fa'
-import {FiUsers} from 'react-icons/fi'
-import {VscFolderLibrary} from 'react-icons/vsc'
+import ME from '../../assets/1.png'
+import {RiAwardFill} from 'react-icons/ri'
+import {GiDiploma} from 'react-icons/gi'
+import {TbCertificate} from 'react-icons/tb'
 
 const About = () => {
   return (
@@ -20,29 +20,36 @@ const About = () => {
 
         <div className="about__content">
         <div className="about__cards">
+
           <article className='about__card'>
-            <FaAward className='about__icon'/> 
+            <GiDiploma className='about__icon'/> 
+            <h5>Diploma IT</h5>
+            <small>89.33%</small>
+          </article>
+
+          <article className='about__card'>
+            <TbCertificate className='about__icon'/> 
+            <h5>B.E AIDS</h5>
+            <small>Pursuing</small>
+          </article>
+          
+          <article className='about__card'>
+            <RiAwardFill className='about__icon'/> 
             <h5>Experience</h5>
-            <small>3+ Years Working</small>
-          </article>
-
-          <article className='about__card'>
-            <FiUsers className='about__icon'/> 
-            <h5>Clients</h5>
-            <small>200+ Clients</small>
-          </article>
-
-          <article className='about__card'>
-            <VscFolderLibrary className='about__icon'/> 
-            <h5>Projects</h5>
-            <small>80+ Completed</small>
+            <small>6+ Months Working</small>
           </article>
         </div>
         <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio, ipsa voluptatem aut odit consequuntur, molestiae aspernatur necessitatibus, inventore eos ipsam qui aliquid nisi excepturi suscipit omnis similique perferendis dolorem dolore.
+        Quick learner & Active IT Enthusiast with a passion
+for transforming complex technical challenges into
+streamlined solutions. Strong analytical skills and a
+knack for problem-solving. Excellent communicator
+& a team player dedicated to achieving both
+individual & organizational goals.
+
         </p>
 
-        <a href="#contact" className='btn btn-primary'>Let's Talk</a>
+        <a href="#contact" className='btn btn-primary mt'>Let's Talk</a>
         </div>
       </div>
     </section>

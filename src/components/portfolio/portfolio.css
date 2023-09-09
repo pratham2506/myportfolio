@@ -19,7 +19,15 @@
 
 .portfolio__item-image{
     border-radius: 1.5rem;
+    width: 350px;
+    height: 200px;
     overflow:hidden;
+}
+
+.portfolio__item-image img{
+    width: 350px;
+    height: 200px;
+    object-fit: fill;
 }
 
 .portfolio__item h3{

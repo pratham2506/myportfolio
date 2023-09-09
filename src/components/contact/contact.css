@@ -3,6 +3,7 @@
     display: grid;
     grid-template-columns: 30% 58%;
     gap: 12%;
+    margin-bottom: 8rem;
 }
 
 .contact__options{
@@ -44,13 +45,20 @@
 
 input,textarea{
     width: 100%;
-    padding: 1.5rem;
+    padding: 1.2rem;
     border-radius: .5rem;
     background: transparent;
     border: 2px solid var(--color-primary-varient);
+    outline: none;
+    font-size: .9rem;
+    font-family: 'Poppins', sans-serif;;
     resize: none;
     color: var(--color-white);
     margin-bottom: 1.2rem;
+}
+
+.cap{
+    text-transform: capitalize;
 }
 
 @media(max-width:1024px) {

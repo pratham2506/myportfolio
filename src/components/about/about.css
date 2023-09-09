@@ -28,13 +28,14 @@
     display: grid;
     grid-template-columns: repeat(3,1fr);
     gap: 1.5rem;
+    margin-bottom: 1rem;
 }
 
 .about__card{
     background: var(--color-bg-varient);
     border: 1px solid transparent;
     border-radius: 1rem;
-    padding: 2rem;
+    padding:1.8rem;
     text-align: center;
     transition: all .5s ease;
 }
@@ -47,8 +48,8 @@
 
 .about__icon{
     color: var(--color-primary);
-    font-size: 1.4rem;
-    margin-bottom: 1rem;
+    font-size: 1.8rem;
+    margin-bottom: .7rem;
 }
 
 .about__card h5{
@@ -63,6 +64,10 @@
 .about__content{
     margin: 2rem 0 2.6rem;
     color: var(--color-light);
+}
+
+.mt{
+    margin-top: 2rem;
 }
 
 @media(max-width:1024px){
@@ -100,3 +105,4 @@
     margin: 1.5rem 0;
    }
 }
+
