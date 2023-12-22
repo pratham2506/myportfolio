@@ -32,6 +32,7 @@
 
 .experience__details{
     display: flex;
+    flex-direction: row;
     gap: 1rem;
 }
 
@@ -65,4 +66,10 @@
     width: 100%;
     padding: 2rem 1rem;
    }
+}
+
+@media(max-width:470px){
+    .experience__content{
+        grid-template-columns: 1fr;
+    }
 }

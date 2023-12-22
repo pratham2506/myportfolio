@@ -1,6 +1,6 @@
 header{
-    height: 100vh;
-    padding-top: 7rem;
+    height: 790px;
+    padding-top: 2rem;
     overflow: hidden;
 }
 
@@ -42,8 +42,8 @@ header{
 
 .me{
     background: linear-gradient(var(--color-primary),transparent);
-    width: 22rem;
-    height: 30rem;
+    width: 352px;
+    height: 480px;
     position: absolute;
     left: calc(50% - 11rem);
     margin-top: 4rem;
@@ -61,16 +61,16 @@ header{
     font-size: .9rem;
 }
 
-@media(max-width:1024px){
+/* @media(max-width:1024px){
     header{
         height: 68vh;   
     }
-}
+} */
 
 @media(max-width:600px){
-    header{
+    /* header{
         height: 100vh;
-    }
+    } */
 
     .header__social,.scroll__down{
         display: none;
