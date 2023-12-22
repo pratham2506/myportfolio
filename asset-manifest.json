@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.70db6104.css",
-    "main.js": "/myportfolio/static/js/main.c2c23c8c.js",
+    "main.css": "/myportfolio/static/css/main.b87376ab.css",
+    "main.js": "/myportfolio/static/js/main.7f338082.js",
     "static/media/droneairgear.png": "/myportfolio/static/media/droneairgear.afca2470ec198efb8ec4.png",
     "static/media/IMG3.png": "/myportfolio/static/media/IMG3.cf37a99857d81ac3549f.png",
     "static/media/1.png": "/myportfolio/static/media/1.0ba505a04335d4414a9f.png",
@@ -11,12 +11,14 @@
     "static/media/portfolio1.jpg": "/myportfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
     "static/media/Resume - Pratham Matkar.pdf": "/myportfolio/static/media/Resume - Pratham Matkar.0b2ea9e2afcfabd34cca.pdf",
     "static/media/portfolio4.jpg": "/myportfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/timelinepic.png": "/myportfolio/static/media/timelinepic.7577a39c381c14bcec61.png",
+    "static/media/timelinepic2.png": "/myportfolio/static/media/timelinepic2.5c7cef999666db084924.png",
     "index.html": "/myportfolio/index.html",
-    "main.70db6104.css.map": "/myportfolio/static/css/main.70db6104.css.map",
-    "main.c2c23c8c.js.map": "/myportfolio/static/js/main.c2c23c8c.js.map"
+    "main.b87376ab.css.map": "/myportfolio/static/css/main.b87376ab.css.map",
+    "main.7f338082.js.map": "/myportfolio/static/js/main.7f338082.js.map"
   },
   "entrypoints": [
-    "static/css/main.70db6104.css",
-    "static/js/main.c2c23c8c.js"
+    "static/css/main.b87376ab.css",
+    "static/js/main.7f338082.js"
   ]
 }
