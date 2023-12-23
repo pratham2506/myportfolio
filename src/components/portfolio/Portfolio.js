@@ -6,11 +6,12 @@ import IMG3 from '../../assets/IMG3.png'
 import IMG4 from '../../assets/portfolio4.jpg'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
+import IMG7 from '../../assets/calculator.png'
 
 const data = [
   {
     id:1,
-    image:"https://m5a8u8t2.stackpathcdn.com/sites/default/files/styles/dynamic_tab/public/product/gfp/outdoor-classroom-equipment_0002_Kiddie%20Academy%20Headquarters-MD-Science%20%26%20Math-Pre-School%20Weather%20Station-View%2008.jpg?itok=52TW36I7",
+    image:"https://www.sevensensor.com/files/2022/05/Why-are-the-Meteorological-Sensors-Required-for-PV-Plants.jpg",
     title:'Iot Based Weather Station Using ESP8266 & Hosting Realtime Results on Webpage',
     // github:'https://github.com/pratham2506/weatherstation',
     demo:'https://github.com/pratham2506/weatherstation'
@@ -43,6 +44,20 @@ const data = [
     // github:'https://github.com/pratham2506/NodeMCU/tree/main',
     demo:'https://github.com/pratham2506/NodeMCU/tree/main'
   },
+  {
+    id:6,
+    image:IMG7,
+    title:'Basic calculator webapp project in React JS',
+    // github:'https://github.com/pratham2506/NodeMCU/tree/main',
+    demo:'https://calculator-95421.web.app/'
+  },
+  {
+    id:7,
+    image:"https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/url-shortener.jpg",
+    title:'NodeJS & MongoDB url shortner using postman for testing and application',
+    // github:'https://github.com/pratham2506/NodeMCU/tree/main',
+    demo:'https://github.com/pratham2506/nodejs-urlshortner/tree/44b42e25a088e45b961b6f8da3ea3de7f062262a'
+  },
   // {
   //   id:6,
   //   image:IMG6,
@@ -64,13 +79,14 @@ const Portfolio = () => {
             return(
               <article key={id} className='portfolio__item'>
                 <div className="portfolio__item-image">
+                  
                   <img src={image} alt={title} />
                 </div>
-                <h3>{title}</h3>
-                <div className="portfolio__item-cta">
+                
+                  <a href={demo} className='projectlink' target="_blank"><h3>{title}</h3></a>
+                {/* <div className="portfolio__item-cta"> */}
                   {/* <a href={github} className='btn' target="_blank">Github</a> */}
-                  <a href={demo} className='btn' target="_blank">Live Demo</a>
-                </div>
+                {/* </div> */}
 
               </article>
             )

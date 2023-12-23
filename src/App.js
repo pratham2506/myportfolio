@@ -19,7 +19,7 @@ const App = () => {
       <About2/>
       <Experience/>
       {/* <Services/> */}
-      {/* <Portfolio/> */}
+      <Portfolio/>
       {/* <Testimonial/> */}
       <Contact/>
       <Footer/>
