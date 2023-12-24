@@ -7,6 +7,8 @@ import IMG4 from '../../assets/portfolio4.jpg'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
 import IMG7 from '../../assets/calculator.png'
+import IMG8 from '../../assets/IMG4.png'
+
 
 const data = [
   {
@@ -57,6 +59,13 @@ const data = [
     title:'NodeJS & MongoDB url shortner using postman for testing and application',
     // github:'https://github.com/pratham2506/NodeMCU/tree/main',
     demo:'https://github.com/pratham2506/nodejs-urlshortner/tree/44b42e25a088e45b961b6f8da3ea3de7f062262a'
+  },
+  {
+    id:7,
+    image:IMG8,
+    title:'E-commerce Website Scraping Tool using Jupyter Notebook ',
+    // github:'https://github.com/pratham2506/NodeMCU/tree/main',
+    demo:'https://github.com/pratham2506/ecom-webscrapper/tree/main'
   },
   // {
   //   id:6,
