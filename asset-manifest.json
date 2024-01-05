@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.67de4d72.css",
-    "main.js": "/myportfolio/static/js/main.93a3b642.js",
+    "main.js": "/myportfolio/static/js/main.b94b1501.js",
     "static/media/droneairgear.png": "/myportfolio/static/media/droneairgear.afca2470ec198efb8ec4.png",
     "static/media/IMG3.png": "/myportfolio/static/media/IMG3.cf37a99857d81ac3549f.png",
     "static/media/1.png": "/myportfolio/static/media/1.0ba505a04335d4414a9f.png",
@@ -17,10 +17,10 @@
     "static/media/timelinepic2.png": "/myportfolio/static/media/timelinepic2.5c7cef999666db084924.png",
     "index.html": "/myportfolio/index.html",
     "main.67de4d72.css.map": "/myportfolio/static/css/main.67de4d72.css.map",
-    "main.93a3b642.js.map": "/myportfolio/static/js/main.93a3b642.js.map"
+    "main.b94b1501.js.map": "/myportfolio/static/js/main.b94b1501.js.map"
   },
   "entrypoints": [
     "static/css/main.67de4d72.css",
-    "static/js/main.93a3b642.js"
+    "static/js/main.b94b1501.js"
   ]
 }
