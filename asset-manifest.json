@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.67de4d72.css",
-    "main.js": "/myportfolio/static/js/main.00180e3a.js",
+    "main.css": "/myportfolio/static/css/main.35b5f084.css",
+    "main.js": "/myportfolio/static/js/main.d2a4a27e.js",
     "static/media/droneairgear.png": "/myportfolio/static/media/droneairgear.afca2470ec198efb8ec4.png",
     "static/media/IMG3.png": "/myportfolio/static/media/IMG3.cf37a99857d81ac3549f.png",
     "static/media/1.png": "/myportfolio/static/media/1.0ba505a04335d4414a9f.png",
     "static/media/me.png": "/myportfolio/static/media/me.f48c4a991b636e863f59.png",
     "static/media/portfolio5.png": "/myportfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/Resume - Pratham Matkar.pdf": "/myportfolio/static/media/Resume - Pratham Matkar.73b3c546c849bdaa5e4f.pdf",
     "static/media/portfolio6.jpg": "/myportfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
     "static/media/portfolio1.jpg": "/myportfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
     "static/media/IMG4.png": "/myportfolio/static/media/IMG4.8a235400316df33dfbbc.png",
-    "static/media/Resume - Pratham Matkar.pdf": "/myportfolio/static/media/Resume - Pratham Matkar.0b2ea9e2afcfabd34cca.pdf",
     "static/media/portfolio4.jpg": "/myportfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "static/media/calculator.png": "/myportfolio/static/media/calculator.098d9c8e71ef6b1f80ce.png",
-    "static/media/timelinepic.png": "/myportfolio/static/media/timelinepic.7577a39c381c14bcec61.png",
-    "static/media/timelinepic2.png": "/myportfolio/static/media/timelinepic2.5c7cef999666db084924.png",
+    "static/media/timelinepic.png": "/myportfolio/static/media/timelinepic.03089296944b976bcbb6.png",
+    "static/media/timelinepic2.png": "/myportfolio/static/media/timelinepic2.03089296944b976bcbb6.png",
     "index.html": "/myportfolio/index.html",
-    "main.67de4d72.css.map": "/myportfolio/static/css/main.67de4d72.css.map",
-    "main.00180e3a.js.map": "/myportfolio/static/js/main.00180e3a.js.map"
+    "main.35b5f084.css.map": "/myportfolio/static/css/main.35b5f084.css.map",
+    "main.d2a4a27e.js.map": "/myportfolio/static/js/main.d2a4a27e.js.map"
   },
   "entrypoints": [
-    "static/css/main.67de4d72.css",
-    "static/js/main.00180e3a.js"
+    "static/css/main.35b5f084.css",
+    "static/js/main.d2a4a27e.js"
   ]
 }
