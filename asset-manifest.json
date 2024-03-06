@@ -1,26 +1,28 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.35b5f084.css",
-    "main.js": "/myportfolio/static/js/main.d2a4a27e.js",
+    "main.js": "/myportfolio/static/js/main.5a9ca143.js",
     "static/media/droneairgear.png": "/myportfolio/static/media/droneairgear.afca2470ec198efb8ec4.png",
     "static/media/IMG3.png": "/myportfolio/static/media/IMG3.cf37a99857d81ac3549f.png",
     "static/media/1.png": "/myportfolio/static/media/1.0ba505a04335d4414a9f.png",
     "static/media/me.png": "/myportfolio/static/media/me.f48c4a991b636e863f59.png",
     "static/media/portfolio5.png": "/myportfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/Resume - Pratham Matkar.pdf": "/myportfolio/static/media/Resume - Pratham Matkar.73b3c546c849bdaa5e4f.pdf",
     "static/media/portfolio6.jpg": "/myportfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/Resume - Pratham Matkar.pdf": "/myportfolio/static/media/Resume - Pratham Matkar.16b1be2cc1bd16a6b720.pdf",
     "static/media/portfolio1.jpg": "/myportfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
     "static/media/IMG4.png": "/myportfolio/static/media/IMG4.8a235400316df33dfbbc.png",
     "static/media/portfolio4.jpg": "/myportfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/gpt.png": "/myportfolio/static/media/gpt.792fa0177e0f77cfb59d.png",
+    "static/media/encrypt.png": "/myportfolio/static/media/encrypt.72bbdf4c5a35e1bba626.png",
     "static/media/calculator.png": "/myportfolio/static/media/calculator.098d9c8e71ef6b1f80ce.png",
     "static/media/timelinepic.png": "/myportfolio/static/media/timelinepic.03089296944b976bcbb6.png",
     "static/media/timelinepic2.png": "/myportfolio/static/media/timelinepic2.03089296944b976bcbb6.png",
     "index.html": "/myportfolio/index.html",
     "main.35b5f084.css.map": "/myportfolio/static/css/main.35b5f084.css.map",
-    "main.d2a4a27e.js.map": "/myportfolio/static/js/main.d2a4a27e.js.map"
+    "main.5a9ca143.js.map": "/myportfolio/static/js/main.5a9ca143.js.map"
   },
   "entrypoints": [
     "static/css/main.35b5f084.css",
-    "static/js/main.d2a4a27e.js"
+    "static/js/main.5a9ca143.js"
   ]
 }
