@@ -25,17 +25,21 @@ const About2 = () => {
 
             <div className="timelinecard">
               <div className="cardimg">
-                <img src={timelinepic} alt="" />
+                <img src={timelinepic2} alt="" />
               </div>
 
               <div className="carddata">
                 <h4>
-                Secondary School Certificate{" "}
-                  <span className="dateyear">2011-2020</span>
+                  B.E. Artificial Intelligence and Data Science{" "}
+                  <span className="dateyear">2023-2026</span>
                 </h4>
-                <h5>Dominic Savio Vidyalaya</h5>
+                <h5>Vivekanand Education Society's Institute of Technology</h5>
                 <p>
-                Thrived academically and socially at Dominic Savio Vidyalaya. Demonstrated leadership in student activities, achieved academic excellence, and developed strong interpersonal skills through collaborative projects.
+                  Currently pursuing BE in AI and DS at VESIT. Applying
+                  theoretical knowledge to real-world problems, honing
+                  programming skills, and collaborating on impactful projects.
+                  Demonstrating adaptability and critical thinking in diverse
+                  contexts.
                 </p>
               </div>
             </div>
@@ -62,24 +66,24 @@ const About2 = () => {
 
             <div className="timelinecard">
               <div className="cardimg">
-                <img src={timelinepic2} alt="" />
+                <img src={timelinepic} alt="" />
               </div>
 
               <div className="carddata">
                 <h4>
-                  B.E. Artificial Intelligence and Data Science{" "}
-                  <span className="dateyear">2023-2026</span>
+                  Secondary School Certificate{" "}
+                  <span className="dateyear">2011-2020</span>
                 </h4>
-                <h5>Vivekanand Education Society's Institute of Technology</h5>
+                <h5>Dominic Savio Vidyalaya</h5>
                 <p>
-                  Currently pursuing BE in AI and DS at VESIT. Applying
-                  theoretical knowledge to real-world problems, honing
-                  programming skills, and collaborating on impactful projects.
-                  Demonstrating adaptability and critical thinking in diverse
-                  contexts.
+                  Thrived academically and socially at Dominic Savio Vidyalaya.
+                  Demonstrated leadership in student activities, achieved
+                  academic excellence, and developed strong interpersonal skills
+                  through collaborative projects.
                 </p>
               </div>
             </div>
+            
           </div>
           <div className="boxybox">
             <div className="onepart">
@@ -137,22 +141,19 @@ const About2 = () => {
         <div className="maindivabout">
           <div className="timeline">
             <h3>Work & Experience</h3>
+
             <div className="timelinecard">
               <div className="cardimg">
-                <img src={timelinepic} alt="" />
+                <img src={timelinepic2} alt="" />
               </div>
 
               <div className="carddata">
                 <h4>
-                  Web Developer{" "}
-                  <span className="dateyear">Jan23-June23</span>
+                  Web Developer <span className="dateyear">Mar24-Present</span>
                 </h4>
-                <h5>The Fast Way</h5>
+                <h5>Rhyno Wheels Private Limited</h5>
                 <p>
-                My 6 month internship at The Fast Way provided me
-with valuable experience in web development, honed
-my coding skills, and allowed me to contribute to the
-success of multiple projects.
+                In my internship at Rhyno Wheels Pvt Ltd, I have been actively involved in web development tasks. Design and develop a responsive website using React and AWS. Troubleshoot and debug technical issues. Great opportunity to put my skills to testing.
                 </p>
               </div>
             </div>
@@ -164,16 +165,34 @@ success of multiple projects.
 
               <div className="carddata">
                 <h4>
-                  Web Developer{" "}
-                  <span className="dateyear">Dec23-Dec23</span>
+                  Front-end Developer <span className="dateyear">Dec23-Dec23</span>
                 </h4>
                 <h5>The Fast Way</h5>
                 <p>
-                I had the opportunity to work on several web
-development projects, gaining valuable hands-on
-experience in front-end, back-end, database
-management, testing & quality assurance, project
-presentation & collaboration, & continuous learning.
+                  I had the opportunity to work on several web development
+                  projects, gaining valuable hands-on experience in front-end,
+                  back-end, database management, testing & quality assurance,
+                  project presentation & collaboration, & continuous learning.
+                </p>
+              </div>
+            </div>
+
+
+            <div className="timelinecard">
+              <div className="cardimg">
+                <img src={timelinepic} alt="" />
+              </div>
+
+              <div className="carddata">
+                <h4>
+                  Full Stack Web Developer <span className="dateyear">Jan23-June23</span>
+                </h4>
+                <h5>The Fast Way</h5>
+                <p>
+                  My 6 month internship at The Fast Way provided me with
+                  valuable experience in web development, honed my coding
+                  skills, and allowed me to contribute to the success of
+                  multiple projects.
                 </p>
               </div>
             </div>

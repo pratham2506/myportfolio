@@ -8,6 +8,8 @@ import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
 import IMG7 from '../../assets/calculator.png'
 import IMG8 from '../../assets/IMG4.png'
+import IMG9 from '../../assets/encrypt.png'
+import IMG10 from '../../assets/gpt.png'
 
 
 const data = [
@@ -39,13 +41,13 @@ const data = [
     // github:'https://github.com/pratham2506/dobot',
     demo:'https://github.com/pratham2506/dobot'
   },
-  {
-    id:5,
-    image:"https://mbatechmeds.com/wp-content/uploads/2021/07/ESP-Node-Mcu.jpg",
-    title:'Basic Projects To Get Hands-Onn with ESP8266 (NodeMCU) (working on more to add)',
-    // github:'https://github.com/pratham2506/NodeMCU/tree/main',
-    demo:'https://github.com/pratham2506/NodeMCU/tree/main'
-  },
+  // {
+  //   id:5,
+  //   image:"https://mbatechmeds.com/wp-content/uploads/2021/07/ESP-Node-Mcu.jpg",
+  //   title:'Basic Projects To Get Hands-Onn with ESP8266 (NodeMCU) (working on more to add)',
+  //   // github:'https://github.com/pratham2506/NodeMCU/tree/main',
+  //   demo:'https://github.com/pratham2506/NodeMCU/tree/main'
+  // },
   {
     id:6,
     image:IMG7,
@@ -61,19 +63,26 @@ const data = [
     demo:'https://github.com/pratham2506/nodejs-urlshortner/tree/44b42e25a088e45b961b6f8da3ea3de7f062262a'
   },
   {
-    id:7,
+    id:8,
     image:IMG8,
     title:'E-commerce Website Scraping Tool using Jupyter Notebook ',
     // github:'https://github.com/pratham2506/NodeMCU/tree/main',
     demo:'https://github.com/pratham2506/ecom-webscrapper/tree/main'
   },
-  // {
-  //   id:6,
-  //   image:IMG6,
-  //   title:'Crypto Currency Dashboard & Financial Visualization',
-  //   github:'https://github.com',
-  //   demo:'https://linkedin.com'
-  // }
+  {
+    id:9,
+    image:IMG9,
+    title:'Message Encryption - Decryption tool using Python',
+    // github:'https://github.com',
+    demo:'https://github.com/pratham2506/encrypt-decrypt'
+  },
+  {
+    id:10,
+    image:IMG10,
+    title:'Gen AI chatbot with ChatGPT API Integration',
+    // github:'https://github.com',
+    demo:'https://github.com/pratham2506/gpt_terminal_chatbot'
+  }
 ]
 
 const Portfolio = () => {
